@@ -1,11 +1,12 @@
 # Assignment 01 - Phát triển game - 16TN
 
+#### MSSV: 1612829
 #### GVLT: Trần Minh Triết
 #### GVTH: Trần Ngọc Đạt Thành
 
 # Youtube
 
-
+https://www.youtube.com/watch?v=q31-TpiNiGA&feature=youtu.be
 
 # Tham khảo
 
